@@ -6,4 +6,4 @@ I took Horiseon's current website and refactored to ensure proper functionality 
 
 This is deployed [here](https://haydenreiter.github.io/horiseon-code-refactor/)
 
-Completed by [Hayden Reiter](https://github/HaydenReiter)
+Completed by [Hayden Reiter](https://github.com/HaydenReiter)
